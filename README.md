@@ -1,0 +1,2 @@
+# S7-KTU-SYLLABUS
+A simple website for S7 2019 SCHEME SYLLABUS FOR CSE
